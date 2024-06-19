@@ -6,4 +6,7 @@ export default defineNuxtConfig({
     "@nuxt/eslint",
     // ...
   ],
+  imports: {
+    autoImport: false,
+  },
 });
