@@ -8,5 +8,5 @@
 const a = 10;
 const c = 10;
 
-console.log("a", a, b, useRoutez, c);
+console.log("a", a, useRoute, c);
 </script>
